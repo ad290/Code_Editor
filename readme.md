@@ -21,6 +21,7 @@
     1. Open Command Prompt\ Terminal
 
     2. git clone https://github.com/ad290/Code_Editor.git
+    
     3. cd .\Codo-File\
 
     4. npm install
@@ -29,14 +30,12 @@
 
     6. npm install
 
-    7. npm i gsap
+    7. npm start
 
     8. cd ../backend
 
     9. npm install
 
-    10. npm install dotenv
+    10. npm start
 
-    11. cd..
-
-    12. npm run both
+    
